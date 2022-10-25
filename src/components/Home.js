@@ -1,7 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 
-export default function Home() {
+function Home() {
   return (
     <div name="home" className="w-full h-screen bg-[#0a192f]">
       {/* Container  */}
@@ -28,3 +28,5 @@ export default function Home() {
     </div>
   );
 }
+
+export default Home;

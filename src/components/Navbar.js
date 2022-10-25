@@ -4,7 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/logo.png";
 
-export default function Navbar() {
+function Navbar() {
   const [nav, setNav] = useState(false);
 
   const handleClick = () => {
@@ -91,3 +91,5 @@ export default function Navbar() {
     </div>
   );
 }
+
+export default Navbar;
