@@ -17,10 +17,14 @@ function About() {
             <p>Hi. I'm Brian, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            Poop in the plant pot jump on fridge i is not fat, i is fluffy
-            really likes hummus for ears back wide eyed but carrying out
-            surveillance on the neighbour's dog growl at dogs in my sleep. Stare
-            at ceiling light you have cat to be kitten me right meow.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nulla
+            odio, volutpat eu semper in, tincidunt quis velit. Nunc quam mauris,
+            eleifend a lacus a, pharetra ultrices lacus. Ut ultrices lacus ut
+            enim ultrices tincidunt. Duis maximus pulvinar ipsum, ac rhoncus
+            orci placerat et. Curabitur elit tellus, fringilla vitae ante vel,
+            bibendum convallis nunc. Donec commodo lacus sed leo volutpat
+            laoreet. Vestibulum ac odio quis lacus pellentesque malesuada. Donec
+            ac enim aliquam, tincidunt nunc et, accumsan elit.
           </div>
         </div>
       </div>
