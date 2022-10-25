@@ -1,3 +1,3 @@
 View live here:
 
-https://brian-nguyen-portfolio.web.app/
+https://brian-nguyen.ca/
